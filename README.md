@@ -1,0 +1,1 @@
+# Automate Windows Terminal Configuration Script
